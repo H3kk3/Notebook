@@ -1,0 +1,57 @@
+body {
+    background-color: white;
+}
+
+#header-links {
+    background-color: #00adef;
+    color: white;
+    width: 100%;
+    margin-left:-10px; 
+    margin-top: -10px;
+    height:50px;
+    font-size: 18px;
+    font-color: white;
+	border-color: black;
+	border-width: 2px;
+    padding: 10px;
+    text-align: right;
+}
+
+#title {
+	margin-top: -60px;
+}
+
+#linkstyle {
+	color: white;
+}
+
+#subtitle {
+	color:white;
+	margin-top: -22px;
+    margin-left: 20px
+}
+
+#kepulikonstit {
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+h1 {
+    color: #00adef;
+    font-size: 25px;
+}
+
+h2 {
+	color:white;
+}
+
+h3 {
+    font-style: bold;
+}
+h4 {
+    font: arial;
+    font-style: normal;
+    font-size: 15px;
+}
+

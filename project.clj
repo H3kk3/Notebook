@@ -1,6 +1,6 @@
-(defproject notebook "0.1.0-nytvoisittoimia"
+(defproject notebook "1.0.0"
   :description "Notebook app"
-  :url "http://asd.com"
+  :url "http://h3kk3.io"
   :min-lein-version "2.0.0"
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [compojure "1.3.1"]
